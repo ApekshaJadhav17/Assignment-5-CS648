@@ -1,0 +1,12 @@
+// $body-color : blue;
+// body{
+//     background-color: $body-color;
+// }
+
+// Task-2 (Sass partials)
+@import "variable";
+@import "mixin";
+@import "navigation";
+@import "base";
+@import "content";
+@import "foot";
